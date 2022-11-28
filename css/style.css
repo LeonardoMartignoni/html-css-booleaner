@@ -8,6 +8,10 @@ header {
     position: relative;
 }
 
+.container {
+    margin: 0px 10px;
+}
+
 #booleaner-logo {
     width: 300px;
     position: absolute;
