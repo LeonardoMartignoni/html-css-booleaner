@@ -36,3 +36,31 @@ header {
     font-size: 20px;
     margin: 20px 0px;
 }
+
+#news-table {
+    border-spacing: 0px;
+    text-align: left;
+    width: 100%;
+}
+
+#news-table thead {
+    color: white;
+    background-color: #1FA9E5;
+}
+
+#news-table tbody {
+    height: 30px;
+}
+
+#news-table tbody .blue-table-row {
+    background-color: #B1E5F2;
+}
+
+table thead .long-table-row {
+    width: 50%;
+}
+
+.last-paragraph {
+    font-size: 20px;
+    margin: 20px 0px;
+}
