@@ -1,6 +1,5 @@
 * {
     margin: 0;
-    padding: 0;
 }
 
 header {
@@ -31,4 +30,9 @@ header {
 
 .author a {
     text-decoration: none;
+}
+
+.news {
+    font-size: 20px;
+    margin: 20px 0px;
 }
