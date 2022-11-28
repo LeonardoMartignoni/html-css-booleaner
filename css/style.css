@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    height: 150px;
+    background: #4EA0FF url("../img/pattern.png");
+    position: relative;
+}
+
+#booleaner-logo {
+    width: 300px;
+    position: absolute;
+    left: 0px;
+    bottom: 20px;
+}
